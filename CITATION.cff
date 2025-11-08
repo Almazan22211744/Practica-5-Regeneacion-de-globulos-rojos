@@ -10,12 +10,12 @@ authors:
     affiliation: TecNM / ITT
     email: L22211744@tectijuana.edu.mx
 repository-code: 'https://github.com/Almazan22211744/Practica5MSF'
-keywords:
-  - Circuito RLC
-  - Controlador I
-  - Sistema respiratorio
-  - Modelo matemático
-  - Simulaciones numéricas
+Palabras clave: 
+-REGENRACION DE GLOBULOS ROJOS, 
+-TRANSFUSION SANGUINEA,
+-SISTEMA DE EDOS, 
+-MODELO MATEMATICO,
+-SIMULACIONES NUMERICAS
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2025-11-07'
